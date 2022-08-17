@@ -1,4 +1,4 @@
-### Olá! Boas-Vindas, eu sou o GabrielEvangelista06
+### Olá! Boas-Vindas, eu sou o Gabriel Evangelista
 
 - 🔭 Hoje estou em busca da minha primeira oportunidade de emprego
 - 🌱 Estudando JavaScript, HTML, CSS e Java

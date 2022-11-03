@@ -1,6 +1,6 @@
 ### Olá! Boas-Vindas, eu sou o Gabriel Evangelista
 
-- 🔭 Hoje estou em busca da minha primeira oportunidade de emprego
+- 🔭 Hoje sou estagiário em desenvolvimento full-stack na volkker tech!
 - 🌱 Estudando JavaScript, HTML, CSS e Java
 
 <div align="center">

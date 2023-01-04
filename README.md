@@ -16,8 +16,8 @@
   <img align="center" alt="GabrielEvangelista-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GabrielEvangelista-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="GabrielEvangelista-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />      
-	<img align="center" alt="GabrielEvangelista-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="GabrielEvangelista-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+  <img align="center" alt="GabrielEvangelista-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="GabrielEvangelista-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="GabrielEvangelista-AdonisJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="GabrielEvangelista-Phalcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
   <img align="center" alt="GabrielEvangelista-jQuery"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />

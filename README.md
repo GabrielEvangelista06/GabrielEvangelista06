@@ -1,12 +1,13 @@
-## Hi, I'm Gabriel Evangelista
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje sou estagiário em desenvolvimento full-stack na Volkker Tech!
 - 🌱 Estudando/trabalhando com HTML, CSS, JavaScript, PHP e Java (Na faculdade).
 
-<div align="center">
-  <a href="https://github.com/GabrielEvangelista06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&langs_count=7&theme=algolia"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ### Languages and Tools:

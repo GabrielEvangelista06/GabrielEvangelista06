@@ -6,9 +6,11 @@
 - 🌱 Estudando/trabalhando com HTML, CSS, JavaScript, PHP e Java (Na faculdade).
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=9400D3&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielEvangelista06&bg_color=000000&color=ffffff&line=0080c0&point=ff80c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages and Tools:
 <div style="display: inline_block"><br>

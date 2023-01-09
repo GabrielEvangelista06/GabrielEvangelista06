@@ -10,6 +10,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=9400D3&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielEvangelista06&bg_color=000000&color=ffffff&line=0080c0&point=ff80c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages and Tools:
@@ -31,8 +36,14 @@
   
 <div>
   <a href = "mailto:gabrielevangelista094@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-evangelista-dos-santos-694232229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/GabrielEvangelista06/GabrielEvangelista06/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://www.linkedin.com/in/gabriel-evangelista-dos-santos-694232229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielEvangelista06}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>

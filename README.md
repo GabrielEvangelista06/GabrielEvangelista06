@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje sou estagiário em desenvolvimento full-stack na Volkker Tech!
-- 🌱 Estudando/trabalhando com HTML, CSS, JavaScript, PHP e Java (Na faculdade).
+- 🌱 Estudando/trabalhando com HTML, CSS, JavaScript, NodeJs, PHP e Java (Na faculdade).
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
@@ -31,8 +31,6 @@
   <img align="center" alt="GabrielEvangelista-jQuery"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />      
 </div>
-  
-  ##
   
 <div>
   <a href = "mailto:gabrielevangelista094@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

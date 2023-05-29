@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielEvangelista06&bg_color=000000&color=ffffff&line=0080c0&point=ff80c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielEvangelista06&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <div align="center"> 

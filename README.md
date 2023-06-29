@@ -2,9 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Hoje sou estagiário em desenvolvimento web full-stack na Volkker Tech!
-- 🌱 Trabalhando com HTML, CSS, JavaScript, JQuery, NodeJs, TypeScript, AdonisJs, Express, PHP, Phalcom Framework, Git, GitHub, Docker e PostrgeSQL.
-- Estudando Java, React, MongoDB e outras tecnologias mais...
+👨‍💻 Tecnologias que possuo experiência:
+
+Typescript
+JavaScript
+Node.js (Frameworks: NestJS, Adonis)
+CSS
+Docker
+Git e Github
+HTML
+jQuery
+PHP (Framework: Phalcon)
+Cypress
+
+🌱 Tecnologias em aprendizado:
+
+Java
+React
+Nest.js
+Jest
+SASS
+Bulma
+Tailwind
+MongoDB
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
@@ -39,7 +59,16 @@
   <img align="center" alt="GabrielEvangelista-AdonisJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" alt="GabrielEvangelista-Phalcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
   <img align="center" alt="GabrielEvangelista-jQuery"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />      
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />            
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
   
 <br><p align="centre"><b>Visitors Count</b></p>  

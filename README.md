@@ -2,29 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-👨‍💻 Tecnologias que possuo experiência:
+- 🔭 Em busca de uma nova oportunidade de emprego!
 
-Typescript
-JavaScript
-Node.js (Frameworks: NestJS, Adonis)
-CSS
-Docker
-Git e Github
-HTML
-jQuery
-PHP (Framework: Phalcon)
-Cypress
+- 👨‍💻 Tecnologias que possuo experiência:
 
-🌱 Tecnologias em aprendizado:
+- Typescript
+- JavaScript
+- Node.js (Frameworks: Express, Adonis)
+- CSS
+- Docker
+- Git e Github
+- HTML
+- jQuery
+- PHP (Framework: Phalcon)
+- Cypress
 
-Java
-React
-Nest.js
-Jest
-SASS
-Bulma
-Tailwind
-MongoDB
+- 🌱 Tecnologias em aprendizado:
+
+- Java
+- React
+- Nest.js
+- Jest
+- SASS
+- Bulma
+- Tailwind
+- MongoDB
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
@@ -65,9 +67,9 @@ MongoDB
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />            
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
   

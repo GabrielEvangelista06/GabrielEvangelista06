@@ -6,17 +6,7 @@
 
 - 👨‍💻 Tecnologias que possuo experiência:
 
-Typescript
-JavaScript
-Node.js (Framework: Adonis)
-CSS
-Docker
-Git e Github
-HTML
-jQuery
-PHP (Framework: Phalcon)
-Cypress
-Java (Spring Framework)
+Typescript, JavaScript, Node.js (Framework: Adonis), CSS, Docker, Git e Github, HTML, jQuery, PHP (Framework: Phalcon), Cypress, Java (Spring Framework)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
@@ -25,13 +15,7 @@ Java (Spring Framework)
 
 - 🌱 Tecnologias em aprendizado:
 
-React
-Nest.js
-Jest
-SASS
-Bulma
-Tailwind
-MongoDB
+React, Nest.js, Jest, SASS, Bulma, Tailwind, MongoDB
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

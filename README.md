@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Desenvolvedor Full-Stack na Vindi!
+- 🔭 Desenvolvedor Full-Stack na ACT!
 
 - 👨‍💻 Tecnologias que possuo experiência:
 
-Typescript, JavaScript, Node.js (Framework: Adonis), CSS, Docker, Git e Github, HTML, jQuery, PHP (Framework: Phalcon), Cypress, Java (Spring Framework)
+Java, Spring Framework, Node.js
+JavaScript, Vue.js, React, Next.js, TypeScript
+Tailwind, PrimeVue, ShadcnUI, Bootstrap, CSS
+Git, Docker, Jira, BitBucket
+MySQL, PostgreSQL, AWS
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
-- 🌱 Tecnologias em aprendizado:
-
-React, Nest.js, Jest, SASS, Bulma, Tailwind, MongoDB
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -51,8 +51,11 @@ React, Nest.js, Jest, SASS, Bulma, Tailwind, MongoDB
   <img align="center" alt="GabrielEvangelista-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GabrielEvangelista-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="GabrielEvangelista-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="GabrielEvangelista-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
   <img align="center" alt="GabrielEvangelista-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="GabrielEvangelista-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="GabrielEvangelista-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="GabrielEvangelista-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="GabrielEvangelista-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </div>
   
 <br><p align="centre"><b>Visitors Count</b></p>  

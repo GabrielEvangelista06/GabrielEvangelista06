@@ -21,7 +21,7 @@ MySQL, PostgreSQL, AWS
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center"> 
 

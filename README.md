@@ -150,18 +150,20 @@ Experiments and studies involving:
 
 ---
 
-## 🏆 Achievements
+## 📌 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielEvangelista06&theme=github_dark" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielEvangelista06/GabrielEvangelista06/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabrielEvangelista06/GabrielEvangelista06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

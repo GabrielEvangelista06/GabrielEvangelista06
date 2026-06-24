@@ -40,7 +40,7 @@ Currently working at Cielo, developing mission-critical services in the Pix ecos
 
 * 💳 Building financial solutions in the Pix ecosystem
 * 🚀 Developing Clarus
-* 📖 Reading and studying software architecture
+* 📖 Reading and studying software architecture and AI
 * 🎯 Working toward becoming a Senior Software Engineer
 
 ---

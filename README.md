@@ -137,6 +137,13 @@ Experiments and studies involving:
 ## ⏱ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   4 hrs 16 mins         ██████████████████▒░░░░░░   72.88 %
+JavaScript   1 hr 27 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+SQL          8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ---

@@ -1,66 +1,136 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Evangelista;I'm+22+years+old;I'm+from+Brazil;I'm+Graduated+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-- 🔭 Desenvolvedor Full-Stack na Cielo!
-
-- 👨‍💻 Tecnologias que possuo experiência:
-
-Java, Spring Framework, Node.js
-JavaScript, Vue.js, React, Next.js, TypeScript
-Tailwind, PrimeVue, ShadcnUI, Bootstrap, CSS
-Git, Docker, Jira, BitBucket
-MySQL, PostgreSQL, AWS
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&count_private=true&hide_border=true&title_color=66CDAA&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Evangelista github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&hide_border=true&title_color=66CDAA&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<h1 align="center">Gabriel Evangelista</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+Backend Engineer • Java • Spring Boot • Distributed Systems • Pix
 </p>
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="mailto:gabrielevangelista094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7FFFD4?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
   
-<div align="center"> 
+  <a href="https://www.linkedin.com/in/gabriel-evangelista-dos-santos-694232229">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Evangelista-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-<a href = "mailto:gabrielevangelista094@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-evangelista-dos-santos-694232229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+---
+
+## 👋 About Me
+
+I'm a Backend Engineer from Brazil focused on building scalable and reliable systems.
+
+Currently working at Cielo, developing mission-critical services in the Pix ecosystem, processing high-volume financial transactions and contributing to products used by millions of users.
+
+🎓 Graduated in Systems Analysis and Development
+
+💼 Backend Engineer @ Cielo
+
+🚀 Building personal products and SaaS projects
+
+📚 Passionate about software architecture, clean code and long-term investing
+
+---
+
+## 🏗️ What I Work With
+
+### Backend
+
+- Java 17
+- Spring Boot
+- Spring Framework
+- REST APIs
+- Reactive Programming
+- Microservices
+- Clean Architecture
+- Hexagonal Architecture
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn/ui
+
+### Cloud & DevOps
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- AWS
+- CI/CD
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+## 🚀 Featured Projects
+
+### Clarus
+
+Investment decision platform focused on helping investors build conviction and maintain historical context behind every investment decision.
+
+**Stack**
+
+- Next.js
+- NestJS
+- PostgreSQL
+- Prisma
+- Supabase
+- Turborepo
+
+---
+
+### Personal Lab
+
+Experiments with:
+
+- Software Architecture
+- Backend Engineering
+- AI Tools
+- Productivity Systems
+- Financial Applications
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
- ### Languages and Tools:
-<div style="display: inline_block"><br>
-  <img align="center" alt="GabrielEvangelista-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GabrielEvangelista-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GabrielEvangelista-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GabrielEvangelista-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="GabrielEvangelista-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="GabrielEvangelista-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />      
-  <img align="center" alt="GabrielEvangelista-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="GabrielEvangelista-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="GabrielEvangelista-AdonisJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="GabrielEvangelista-Phalcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phalcon/phalcon-original.svg" />
-  <img align="center" alt="GabrielEvangelista-jQuery"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="GabrielEvangelista-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
-  <img align="center" alt="GabrielEvangelista-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="GabrielEvangelista-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
-  <img align="center" alt="GabrielEvangelista-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="GabrielEvangelista-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="GabrielEvangelista-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="GabrielEvangelista-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="GabrielEvangelista-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="GabrielEvangelista-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="GabrielEvangelista-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="GabrielEvangelista-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-</div>
-  
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielEvangelista06}/count.svg" /></p> 
-<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvangelista06&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEvangelista06&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,nodejs,nestjs,postgres,docker,kubernetes,aws,git,github"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: gabrielevangelista094@gmail.com
+- LinkedIn: linkedin.com/in/gabriel-evangelista-dos-santos-694232229
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielEvangelista06&label=Profile%20Views&color=7FFFD4&style=flat" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>

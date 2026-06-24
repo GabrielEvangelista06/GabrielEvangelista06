@@ -171,15 +171,6 @@ Experiments and studies involving:
 </p>
 
 ---
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielEvangelista06&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielEvangelista06&label=Profile%20Views&color=7FFFD4&style=flat"/>
 </p>

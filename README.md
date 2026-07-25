@@ -139,11 +139,11 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 4 mins          ████████████░░░░░░░░░░░░░   47.50 %
-Markdown     3 hrs 37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-HTML         1 hr 19 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-SQL          1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-JSON         1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+TypeScript   9 hrs 9 mins          █████████████▓░░░░░░░░░░░   54.84 %
+Markdown     3 hrs 37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+HTML         1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+SQL          1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+JSON         33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->

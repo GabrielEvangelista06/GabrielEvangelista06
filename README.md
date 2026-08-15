@@ -139,9 +139,9 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   29 mins               █████████▒░░░░░░░░░░░░░░░   37.02 %
-Other        28 mins               █████████░░░░░░░░░░░░░░░░   36.07 %
-JSON         21 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+TypeScript   29 mins               ███████████▓░░░░░░░░░░░░░   46.87 %
+JSON         21 mins               ████████▓░░░░░░░░░░░░░░░░   34.08 %
+Other        11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
 ```
 
 <!--END_SECTION:waka-->

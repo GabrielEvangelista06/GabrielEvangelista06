@@ -139,8 +139,7 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         2 mins                ████████████████████████▓   98.67 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -139,7 +139,9 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   33 mins               ███████████████████░░░░░░   75.74 %
+Markdown     7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+CSS          3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->

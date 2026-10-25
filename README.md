@@ -139,11 +139,11 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       4 hrs 46 mins         █████████████░░░░░░░░░░░░   52.04 %
-Markdown         2 hrs 54 mins         ████████░░░░░░░░░░░░░░░░░   31.63 %
-GDScript3        23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-PowerShell       15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Text             9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TypeScript       4 hrs 46 mins         ███████████░░░░░░░░░░░░░░   44.05 %
+Markdown         4 hrs 7 mins          █████████▓░░░░░░░░░░░░░░░   38.11 %
+GDScript3        47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+PowerShell       15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Text             9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->

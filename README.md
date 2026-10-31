@@ -139,11 +139,11 @@ Experiments and studies involving:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         17 hrs 13 mins        ███████████████░░░░░░░░░░   59.74 %
-GDScript3        6 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-TypeScript       1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Other            1 hr 13 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Godot Resource   46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Markdown         17 hrs 26 mins        ███████████████▓░░░░░░░░░   62.53 %
+GDScript3        6 hrs 16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+Other            1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Godot Resource   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Git Config       42 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
